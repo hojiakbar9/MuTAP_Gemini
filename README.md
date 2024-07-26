@@ -17,7 +17,6 @@ This repository contains the code and resources for integrating Google's Gemini 
 
 - Python 3.7 or higher
 - An API key for Gemini
-- Dependencies listed in `requirements.txt`
 
 ### Installation
 
